@@ -1,5 +1,5 @@
 ---
-nav_title: SMS country blocklist
+nav_title: SMS Country Blocklist
 article_title: SMS Country Blocklist
 hidden: true
 permalink: /sms_country_blocklist/
